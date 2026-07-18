@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="ChatGPT Image Jul 17, 2026, 09_14_55 PM" src="https://github.com/user-attachments/assets/d79b367d-8514-41aa-8904-d648c497da85" />
+
 # hey, i'm mark
 
 i'm obsessed with consumer apps & user growth.
@@ -14,17 +16,17 @@ i'm obsessed with consumer apps & user growth.
 i keep it simple :)
 
 **languages**  
-⌘ typescript · python · java · sql
+typescript · python · java · sql
 
 **frontend**  
-◌ react · next.js · react native · tailwind css
+react · next.js · react native · tailwind css
 
 **backend**  
-⌁ node.js · supabase · firebase
+node.js · supabase · firebase
 
 **tools**  
-⚙ claude code · github · vercel
+claude code + a bunch of skills · github · vercel
 
 ### elsewhere
 
-↗ [markfang.dev](https://markfang.dev)
+🌐 [markfang.dev](https://markfang.dev)

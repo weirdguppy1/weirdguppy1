@@ -6,11 +6,15 @@ i'm obsessed with consumer apps & user growth.
 
 ### my timeline
 
-- made my first $5K in 9th grade building 
+- made my first $5K in 9th grade building roblox games
 - started an education company doing $10K+ in revenue
 - started social media for fun (yt & tt to 15K+ followers & 5M+ views)
 - earned a merit scholarship at a t20 university + admitted to uiuc cs
-- and currently... **making amazing consumer apps**
+
+## and currently
+- **making amazing consumer apps**
+- **building a roblox game studio**
+- & philosophizing
 
 ### tech stack
 

@@ -4,10 +4,10 @@ i'm obsessed with consumer apps & user growth.
 
 ### my timeline
 
-· made my first $5K w/ Roblox in 9th grade
-· started an education company doing $10K+ in revenue
-· started social media for fun (yt & tt to 15K+ followers & 5m+ views)
-· and now... striving to make the best consumer apps ever
+- made my first $5K w/ Roblox in 9th grade
+- started an education company doing $10K+ in revenue
+- started social media for fun (yt & tt to 15K+ followers & 5m+ views)
+- and currently... **making amazing consumer apps**
 
 ### tech stack
 

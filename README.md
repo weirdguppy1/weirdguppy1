@@ -16,16 +16,16 @@ i'm obsessed with consumer apps & user growth.
 i keep it simple :)
 
 **languages**  
-typescript · python · java · sql
+<img src="https://skillicons.dev/icons?i=typescript,python,java" height="35"/>
 
 **frontend**  
-react · next.js · react native · tailwind css
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="35"/>
 
 **backend**  
-node.js · supabase · firebase
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase" height="35"/>
 
 **tools**  
-claude code + a bunch of skills · github · vercel
+<img src="https://skillicons.dev/icons?i=github,vercel" height="35"/>
 
 ### elsewhere
 
